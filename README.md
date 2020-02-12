@@ -1,21 +1,19 @@
+# teamwangrocks
 
-# Jackson Wang Fansite, Jacky go!
-* tech stack: Vue / Tailwind CSS
+## Project setup
+```
+npm install
+```
 
-# 规划 Plan  
-## Information Architecture  
-define website structure and content navigation  
-## Page Layout  
-Wireframes & Mockups  
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-# 设计 Design 
-ATTN: Design guide
-## Color scheme  
-## Logo  
-## Artwork  
-## Visual elements  
-## Typography  
-## Rich media  
-## User experience  
+### Compiles and minifies for production
+```
+npm run build
+```
 
-# 开发 Dev
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
